@@ -1,0 +1,7 @@
+Classifier,Accuracy,Precision,Recall,F1-Score,Train_Time_s
+Support Vector Classifier,1.0,1.0,1.0,1.0,66.38
+Logistic Regression,0.9813,0.9829,0.9813,0.9812,5.21
+Random Forest,0.9626,0.9651,0.9626,0.963,5.37
+Decision Tree,0.785,0.7928,0.785,0.781,5.99
+K-Nearest Neighbours,0.7757,0.8087,0.7757,0.7702,0.12
+Naive Bayes,0.5514,0.764,0.5514,0.5286,0.16
